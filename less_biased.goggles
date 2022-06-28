@@ -33,7 +33,7 @@ $boost=2,site=ad.nl
 $boost=2,site=adfontesmedia.com
 $boost=2,site=adn.com
 $boost=2,site=adweek.com
-$boost=2,site=afp.com/en/news-hub
+$boost=2,site=afp.com\/en\/news-hub
 $boost=2,site=africacheck.org
 $boost=2,site=agdaily.com
 $boost=2,site=agweb.com
@@ -159,7 +159,7 @@ $boost=2,site=iwpr.org
 $boost=2,site=jacksonville.com
 $boost=2,site=jamestown.org
 $boost=2,site=join1440.com
-$boost=2,site=journalgazette.net/
+$boost=2,site=journalgazette.net
 $boost=2,site=journalnow.com
 $boost=2,site=journals.cambridge.org
 $boost=2,site=journalstar.com
@@ -279,7 +279,7 @@ $boost=2,site=merionwest.com
 $boost=2,site=messengernews.net
 $boost=2,site=missoulian.com
 $boost=2,site=modernhealthcare.com
-$boost=2,site=monmouth.edu/news/
+$boost=2,site=monmouth.edu\/news
 $boost=2,site=montreal.citynews.ca
 $boost=2,site=mooresvilletribune.com
 $boost=2,site=morganton.com
@@ -305,7 +305,7 @@ $boost=2,site=news.harvard.edu
 $boost=2,site=news.sky.com
 $boost=2,site=news.ycombinator.com
 $boost=2,site=news10.com
-$boost=2,site=news10.com/fox-23/
+$boost=2,site=news10.com\/fox-23
 $boost=2,site=news5cleveland.com
 $boost=2,site=news9.com
 $boost=2,site=newsadvance.com
@@ -339,9 +339,7 @@ $boost=2,site=pjstar.com
 $boost=2,site=placesjournal.org
 $boost=2,site=politicalwire.com
 $boost=2,site=postindependent.com
-$boost=2,site=postregiser.com/messenger/
 $boost=2,site=postregister.com
-$boost=2,site=postregister.com/star/
 $boost=2,site=poststar.com
 $boost=2,site=pressofatlanticcity.com
 $boost=2,site=prnewswire.mediaroom.com
@@ -360,7 +358,7 @@ $boost=2,site=redding.com
 $boost=2,site=reporterherald.com
 $boost=2,site=reporterslab.org
 $boost=2,site=rexburgstandardjournal.com
-$boost=2,site=rfi.fr/en/
+$boost=2,site=rfi.fr\/en
 $boost=2,site=riverbender.com
 $boost=2,site=riverdalepress.com
 $boost=2,site=roanoke.com
@@ -370,7 +368,7 @@ $boost=2,site=rocketcitynow.com
 $boost=2,site=rsf.org
 $boost=2,site=rte.ie
 $boost=2,site=santamariatimes.com
-$boost=2,site=sasktoday.ca/north/battlefords-news-optimist
+$boost=2,site=sasktoday.ca\/north\/battlefords-news-optimist
 $boost=2,site=sciencedebate.org
 $boost=2,site=scnow.com
 $boost=2,site=securingdemocracy.gmfus.org
@@ -381,7 +379,7 @@ $boost=2,site=siouxcityjournal.com
 $boost=2,site=skyhinews.com
 $boost=2,site=sociable.co
 $boost=2,site=southbendtribune.com
-$boost=2,site=spectrumlocalnews.com/splash
+$boost=2,site=spectrumlocalnews.com\/splash
 $boost=2,site=spectrumnews1.com
 $boost=2,site=spectrumreport.com
 $boost=2,site=spotlightpa.org
@@ -414,12 +412,12 @@ $boost=2,site=thesouthern.com
 $boost=2,site=thestrategybridge.org
 $boost=2,site=thetandd.com
 $boost=2,site=thetowntalk.com
-$boost=2,site=theunion.com/news/twi/
+$boost=2,site=theunion.com\/news\/twi
 $boost=2,site=timesfreepress.com
 $boost=2,site=timesofsandiego.com
 $boost=2,site=timesrepublican.com
 $boost=2,site=toronto.citynews.ca
-$boost=2,site=transpartisanreview.com/
+$boost=2,site=transpartisanreview.com
 $boost=2,site=tri-cityherald.com
 $boost=2,site=trib.com
 $boost=2,site=tribunecontentagency.com
@@ -727,10 +725,10 @@ $boost=2,site=yourcentralvalley.com
 $boost=2,site=yourcentralvelley.com
 $boost=2,site=yournewsnet.com
 $boost=2,site=yoursun.com
-$boost=2,site=yoursun.com/englewood/
-$boost=2,site=yoursun.com/northport/
-$boost=2,site=yoursun.com/puntagorda/
-$boost=2,site=yoursun.com/venice/
+$boost=2,site=yoursun.com\/englewood
+$boost=2,site=yoursun.com\/northport
+$boost=2,site=yoursun.com\/puntagorda
+$boost=2,site=yoursun.com\/venice
 $boost=2,site=zdf.de
 $boost=2,site=zdnet.com
 $boost=3,site=alaskasnewssource.com
