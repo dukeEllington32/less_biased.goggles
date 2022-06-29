@@ -2,10 +2,13 @@
 ! description: Search news from websites with a good reputation for being less biased.
 ! public: true
 ! author: Duke
-! avatar: #4B0082
+! avatar: #f0c50d
 
 $discard
+
 $boost=1,site=cbo.gov
+$boost=1,site=cell.com
+$boost=1,site=census.gov
 $boost=1,site=coronavirus.gov
 $boost=1,site=www.bettergov.org
 $boost=1,site=www.c-span.org
@@ -67,7 +70,6 @@ $boost=2,site=capecoralbreeze.com
 $boost=2,site=capitolfax.com
 $boost=2,site=cctimesdemocrat.com
 $boost=2,site=cdt.org
-$boost=2,site=cell.com
 $boost=2,site=channelnewsasia.com
 $boost=2,site=charitynavigator.org
 $boost=2,site=clarindaherald.com
@@ -80,7 +82,6 @@ $boost=2,site=columbian.com
 $boost=2,site=columbustelegram.com
 $boost=2,site=commercialappeal.com
 $boost=2,site=communityimpact.com
-$boost=2,site=constitution.com
 $boost=2,site=constitutioncenter.org
 $boost=2,site=consumerist.com
 $boost=2,site=cookpolitical.com
@@ -336,6 +337,7 @@ $boost=2,site=phl17.com
 $boost=2,site=piie.com
 $boost=2,site=pjstar.com
 $boost=2,site=placesjournal.org
+$boost=2,site=plato.stanford.edu
 $boost=2,site=politicalwire.com
 $boost=2,site=postindependent.com
 $boost=2,site=postregister.com
@@ -722,6 +724,7 @@ $boost=2,site=zdf.de
 $boost=2,site=zdnet.com
 $boost=3,site=alaskasnewssource.com
 $boost=3,site=allafrica.com
-$boost=3,site=bigthink.com
-$boost=3,site=pix11.com
 $boost=3,site=www.wikipedia.org
+$boost=4,site=bigthink.com
+$boost=4,site=pix11.com
+$boost=4,site=propublica.org
