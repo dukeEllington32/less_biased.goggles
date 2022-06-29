@@ -6,11 +6,13 @@
 
 $discard
 $boost=1,site=appliedsciences.nasa.gov
+$boost=1,site=brave.com
 $boost=1,site=cbo.gov
 $boost=1,site=cell.com
 $boost=1,site=census.gov
 $boost=1,site=coronavirus.gov
 $boost=1,site=justice.gov
+$boost=1,site=lawfareblog.com
 $boost=1,site=regulations.gov
 $boost=1,site=sec.gov
 $boost=1,site=state.gov
@@ -57,6 +59,7 @@ $boost=2,site=auburnpub.com
 $boost=2,site=avenuenews.com
 $boost=2,site=azfamily.com
 $boost=2,site=babnet.net
+$boost=2,site=badvoltage.org
 $boost=2,site=ballotpedia.org
 $boost=2,site=beatricedailysun.com
 $boost=2,site=benzinga.com
@@ -108,6 +111,7 @@ $boost=2,site=dailycamera.com
 $boost=2,site=dailygazette.com
 $boost=2,site=dailymaverick.co.za
 $boost=2,site=dailynorthwestern.com
+$boost=2,site=datagy.io
 $boost=2,site=dbrnews.com
 $boost=2,site=dccircuitbreaker.org
 $boost=2,site=deltanews.tv
@@ -139,6 +143,7 @@ $boost=2,site=fremonttribune.com
 $boost=2,site=fullfact.org
 $boost=2,site=gazettetimes.com
 $boost=2,site=geek.com
+$boost=2,site=geeksforgeeks.org
 $boost=2,site=godanriver.com
 $boost=2,site=ground.news
 $boost=2,site=group30.org
@@ -258,7 +263,6 @@ $boost=2,site=lancasteronline.com
 $boost=2,site=lansingstatejournal.com
 $boost=2,site=law.com
 $boost=2,site=law360.com
-$boost=2,site=lawfareblog.com
 $boost=2,site=ldnews.com
 $boost=2,site=leadertelegram.com
 $boost=2,site=leadstories.com
@@ -296,7 +300,6 @@ $boost=2,site=morningconsult.com
 $boost=2,site=mtstandard.com
 $boost=2,site=muscatinejournal.com
 $boost=2,site=mychamplainvalley.com
-$boost=2,site=myfox8.com
 $boost=2,site=mynewsla.com
 $boost=2,site=myrecordjournal.com
 $boost=2,site=mysuncoast.com
@@ -305,6 +308,7 @@ $boost=2,site=napavalleyregister.com
 $boost=2,site=navytimes.com
 $boost=2,site=ncsl.org
 $boost=2,site=necn.com
+$boost=2,site=networkworld.com
 $boost=2,site=newarkpostonline.com
 $boost=2,site=news-journal.com
 $boost=2,site=news.abs-cbn.com
@@ -346,6 +350,7 @@ $boost=2,site=pjstar.com
 $boost=2,site=placesjournal.org
 $boost=2,site=plato.stanford.edu
 $boost=2,site=politicalwire.com
+$boost=2,site=politics.stackexchange.com
 $boost=2,site=postindependent.com
 $boost=2,site=postregister.com
 $boost=2,site=poststar.com
@@ -353,6 +358,7 @@ $boost=2,site=pressofatlanticcity.com
 $boost=2,site=prnewswire.mediaroom.com
 $boost=2,site=publications.aap.org
 $boost=2,site=punchbowl.news
+$boost=2,site=pure.mpg.de
 $boost=2,site=qconline.com
 $boost=2,site=qctimes.com
 $boost=2,site=radio.com
@@ -378,6 +384,7 @@ $boost=2,site=santamariatimes.com
 $boost=2,site=sciencedaily.com
 $boost=2,site=sciencedebate.org
 $boost=2,site=scnow.com
+$boost=2,site=searchenginejournal.com
 $boost=2,site=securingdemocracy.gmfus.org
 $boost=2,site=shorensteincenter.org
 $boost=2,site=shreveporttimes.com
@@ -389,6 +396,7 @@ $boost=2,site=southbendtribune.com
 $boost=2,site=spectrumnews1.com
 $boost=2,site=spectrumreport.com
 $boost=2,site=spotlightpa.org
+$boost=2,site=stackoverflow.com
 $boost=2,site=stardem.com
 $boost=2,site=starherald.com
 $boost=2,site=statesville.com
@@ -408,6 +416,7 @@ $boost=2,site=thecalifornian.com
 $boost=2,site=thediplomat.com
 $boost=2,site=theeagle.com
 $boost=2,site=theflipside.io
+$boost=2,site=thefrugalcomputerguy.com
 $boost=2,site=thehill.com
 $boost=2,site=theindependent.com
 $boost=2,site=theneed2know.com
@@ -731,6 +740,8 @@ $boost=2,site=zdf.de
 $boost=2,site=zdnet.com
 $boost=3,site=alaskasnewssource.com
 $boost=3,site=allafrica.com
+$boost=3,site=cheddar.com
+$boost=3,site=technologyreview.com
 $boost=3,site=www.wikipedia.org
 $boost=4,site=bigthink.com
 $boost=4,site=pix11.com
