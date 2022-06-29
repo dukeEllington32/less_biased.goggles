@@ -2,7 +2,7 @@
 ! description: Search news from websites with a good reputation for being less biased.
 ! public: true
 ! author: Duke
-! avatar: #ffc107
+! avatar: #4B0082
 
 $discard
 $boost=1,site=cbo.gov
