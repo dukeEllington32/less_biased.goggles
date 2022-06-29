@@ -1,15 +1,20 @@
 ! name: Less Biased News Search
-! description: Search news from websites with a good reputation for being less biased.
+! description: Search news from websites with a good reputation for being less politically biased than most.
 ! public: true
 ! author: Duke
 ! avatar: #f0c50d
 
 $discard
-
+$boost=1,site=appliedsciences.nasa.gov
 $boost=1,site=cbo.gov
 $boost=1,site=cell.com
 $boost=1,site=census.gov
 $boost=1,site=coronavirus.gov
+$boost=1,site=justice.gov
+$boost=1,site=regulations.gov
+$boost=1,site=sec.gov
+$boost=1,site=state.gov
+$boost=1,site=supremecourt.gov
 $boost=1,site=www.bettergov.org
 $boost=1,site=www.c-span.org
 $boost=1,site=www.congress.gov
@@ -147,6 +152,7 @@ $boost=2,site=herald-review.com
 $boost=2,site=heraldcourier.com
 $boost=2,site=heterodoxacademy.org
 $boost=2,site=hickoryrecord.com
+$boost=2,site=hopkinsmedicine.org
 $boost=2,site=host.madison.com
 $boost=2,site=howtogeek.com
 $boost=2,site=icitizen.com
@@ -217,6 +223,7 @@ $boost=2,site=kompas.com
 $boost=2,site=kplctv.com
 $boost=2,site=kptv.com
 $boost=2,site=krdo.com
+$boost=2,site=krebsonsecurity.com
 $boost=2,site=kron4.com
 $boost=2,site=krqe.com
 $boost=2,site=ksat.com
