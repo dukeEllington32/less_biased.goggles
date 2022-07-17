@@ -8,6 +8,8 @@ $discard
 $boost=4,site=www.usaspending.gov
 $boost=4,site=www.nextgov.com
 $boost=4,site=www.japantimes.co.jp
+$boost=4,site=www.japantimes.co.jp
+$boost=4,site=www.japantimes.co.jp
 $boost=4,site=www.house.gov
 $boost=4,site=www.govtrack.us
 $boost=4,site=www.dol.gov
@@ -377,6 +379,7 @@ $boost=3,site=theeagle.com
 $boost=3,site=thediplomat.com
 $boost=3,site=thecalifornian.com
 $boost=3,site=tetonvalleynews.net
+$boost=3,site=testfreaks.com
 $boost=3,site=tennessean.com
 $boost=3,site=telegram.com
 $boost=3,site=techspot.com
@@ -640,6 +643,7 @@ $boost=3,site=icitizen.com
 $boost=3,site=howtogeek.com
 $boost=3,site=host.madison.com
 $boost=3,site=hopkinsmedicine.org
+$boost=3,site=honestproductreviews.com
 $boost=3,site=home.cern
 $boost=3,site=hickoryrecord.com
 $boost=3,site=heterodoxacademy.org
@@ -708,6 +712,7 @@ $boost=3,site=countryliving.com
 $boost=3,site=counton2.com
 $boost=3,site=corriere.it
 $boost=3,site=cookpolitical.com
+$boost=3,site=consumerlab.com
 $boost=3,site=consumerist.com
 $boost=3,site=constitutioncenter.org
 $boost=3,site=communityimpact.com
