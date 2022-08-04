@@ -9,17 +9,20 @@ $boost=4,site=www.usaspending.gov
 $boost=4,site=www.rollcall.com
 $boost=4,site=www.nextgov.com
 $boost=4,site=www.japantimes.co.jp
+$boost=4,site=www.investopedia.com
 $boost=4,site=www.house.gov
 $boost=4,site=www.govtrack.us
 $boost=4,site=www.dol.gov
 $boost=4,site=www.defense.gov
 $boost=4,site=www.congress.gov
 $boost=4,site=www.census.gov
+$boost=4,site=www.capecodtimes.com
 $boost=4,site=www.c-span.org
 $boost=4,site=www.bettergov.org
 $boost=4,site=uscis.gov
 $boost=4,site=supremecourt.gov
 $boost=4,site=state.gov
+$boost=4,site=spotlightpa.org
 $boost=4,site=sec.gov
 $boost=4,site=regulations.gov
 $boost=4,site=oversight.house.gov
@@ -38,14 +41,13 @@ $boost=4,site=eia.gov
 $boost=4,site=earthquake.usgs.gov
 $boost=4,site=dw.com
 $boost=4,site=dhs.gov
-$boost=4,site=coronavirus.gov
+$boost=4,site=cookpolitical.com
 $boost=4,site=commerce.gov
 $boost=4,site=clerk.house.gov
 $boost=4,site=cisa.gov
 $boost=4,site=cftc.gov
 $boost=4,site=cell.com
 $boost=4,site=cbo.gov
-$boost=4,site=brave.com
 $boost=4,site=appliedsciences.nasa.gov
 $boost=4,site=airforcetimes.com
 $boost=4,site=13abc.com
@@ -147,7 +149,6 @@ $boost=3,site=www.jordantimes.com
 $boost=3,site=www.janes.com
 $boost=3,site=www.jacksonsun.com
 $boost=3,site=www.ire.org
-$boost=3,site=www.investopedia.com
 $boost=3,site=www.indystar.com
 $boost=3,site=www.imediaethics.org
 $boost=3,site=www.iea.org
@@ -209,7 +210,6 @@ $boost=3,site=www.chinookobserver.com
 $boost=3,site=www.cfr.org
 $boost=3,site=www.ced.org
 $boost=3,site=www.castanet.net
-$boost=3,site=www.capecodtimes.com
 $boost=3,site=www.business2community.com
 $boost=3,site=www.bullshido.net
 $boost=3,site=www.buffalonews.com
@@ -398,7 +398,6 @@ $boost=3,site=statesville.com
 $boost=3,site=starherald.com
 $boost=3,site=stardem.com
 $boost=3,site=stackoverflow.com
-$boost=3,site=spotlightpa.org
 $boost=3,site=spectrumreport.com
 $boost=3,site=spectrumnews1.com
 $boost=3,site=southbendtribune.com
@@ -713,7 +712,6 @@ $boost=3,site=courier-tribune.com
 $boost=3,site=countryliving.com
 $boost=3,site=counton2.com
 $boost=3,site=corriere.it
-$boost=3,site=cookpolitical.com
 $boost=3,site=consumerlab.com
 $boost=3,site=consumerist.com
 $boost=3,site=constitutioncenter.org
@@ -738,6 +736,7 @@ $boost=3,site=calgary.citynews.ca
 $boost=3,site=burnettcountysentinel.com
 $boost=3,site=brproud.com
 $boost=3,site=bringmethenews.com
+$boost=3,site=brave.com
 $boost=3,site=bozemandailychronicle.com
 $boost=3,site=boston25news.com
 $boost=3,site=borderreport.com
@@ -798,6 +797,7 @@ $boost=2,site=neh.gov
 $boost=2,site=hhs.gov
 $boost=2,site=gao.gov
 $boost=2,site=cybernews.com
+$boost=2,site=coronavirus.gov
 $boost=2,site=cheddar.com
 $boost=2,site=analytics.usa.gov
 $boost=2,site=allafrica.com
