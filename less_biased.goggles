@@ -6,6 +6,7 @@
 
 $discard
 $boost=4,site=www.usaspending.gov
+$boost=4,site=www.rollcall.com
 $boost=4,site=www.nextgov.com
 $boost=4,site=www.japantimes.co.jp
 $boost=4,site=www.japantimes.co.jp
@@ -99,7 +100,6 @@ $boost=3,site=www.scoopnest.com
 $boost=3,site=www.sayfiereview.com
 $boost=3,site=www.sanmarcosrecord.com
 $boost=3,site=www.sandiegouniontribune.com
-$boost=3,site=www.rollcall.com
 $boost=3,site=www.rferl.org
 $boost=3,site=www.rescue.org
 $boost=3,site=www.recode.net
