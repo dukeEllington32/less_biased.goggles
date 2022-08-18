@@ -23,6 +23,7 @@ $boost=4,site=uscis.gov
 $boost=4,site=supremecourt.gov
 $boost=4,site=state.gov
 $boost=4,site=spotlightpa.org
+$boost=4,site=senate.gov
 $boost=4,site=sec.gov
 $boost=4,site=regulations.gov
 $boost=4,site=oversight.house.gov
@@ -90,6 +91,7 @@ $boost=3,site=www.strategypage.com
 $boost=3,site=www.statesmanjournal.com
 $boost=3,site=www.standard.net
 $boost=3,site=www.smartnews.com
+$boost=3,site=www.skeptic.com
 $boost=3,site=www.simplepolitics.co.uk
 $boost=3,site=www.silive.com
 $boost=3,site=www.shareably.net
