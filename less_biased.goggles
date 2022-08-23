@@ -789,7 +789,8 @@ $boost=3,site=11alive.com
 $boost=3,site=10tv.com
 $boost=3,site=1011now.com
 $boost=3,site=1010wins.radio.com
-$boost=2,site=www.wikipedia.org
+$boost=2,site=wxii12.com
+$boost=2,site=oregonlive.com
 $boost=2,site=www.skeptics.com.au
 $boost=2,site=www.gnu.org
 $boost=2,site=www.fbi.gov
@@ -804,6 +805,7 @@ $boost=2,site=cheddar.com
 $boost=2,site=analytics.usa.gov
 $boost=2,site=allafrica.com
 $boost=2,site=alaskasnewssource.com
+$boost=1,site=www.wikipedia.org
 $boost=1,site=www.ajaonline.org
 $boost=1,site=propublica.org
 $boost=1,site=pix11.com
