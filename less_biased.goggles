@@ -40,7 +40,6 @@ $boost=4,site=federalreserve.gov
 $boost=4,site=federalregister.gov
 $boost=4,site=eia.gov
 $boost=4,site=earthquake.usgs.gov
-$boost=4,site=dw.com
 $boost=4,site=dhs.gov
 $boost=4,site=cookpolitical.com
 $boost=4,site=commerce.gov
