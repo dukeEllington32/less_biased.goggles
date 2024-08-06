@@ -5,6 +5,7 @@
 ! avatar: #f0c50d
 
 $discard
+$boost_recent:30d
 $boost=4,site=www.usaspending.gov
 $boost=4,site=www.rollcall.com
 $boost=4,site=www.nextgov.com
