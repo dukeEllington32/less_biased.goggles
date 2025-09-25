@@ -19,6 +19,7 @@ $boost=4,site=www.census.gov
 $boost=4,site=www.capecodtimes.com
 $boost=4,site=www.c-span.org
 $boost=4,site=www.bettergov.org
+$boost=4,site=ground.news
 $boost=4,site=uscis.gov
 $boost=4,site=supremecourt.gov
 $boost=4,site=state.gov
@@ -72,6 +73,7 @@ $boost=3,site=www.tvw.org
 $boost=3,site=www.truthorfiction.com
 $boost=3,site=www.transparency.org
 $boost=3,site=www.todayifoundout.com
+$boost=3,site=cryptonews.com
 $boost=3,site=www.thoughtco.com
 $boost=3,site=www.thirdway.org
 $boost=3,site=www.thesmokinggun.com
